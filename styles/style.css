@@ -1,4 +1,34 @@
 *{
      font-family: 'Open Sans', sans-serif; 
-    
 }
+/* -------banner part start--------- */
+#black-rose{
+    background-image: url(../images/banner/banner3.png);
+    width: 1332px;
+    height: 808px;
+}
+.rose{
+    font-size: 40px;
+    text-align: right;
+    color: white;
+    margin-right: 120px;
+} 
+.meri-gold {
+    text-align: right;
+    color: white;
+    font-size: 15px;
+    margin-right: 120px;
+}
+.chaina-rose{
+    color:#005FAC;
+    background-color: white;
+    height: 64px;
+    width: 130px;
+    font-size: 20px;
+    float: right;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-right: 120px;
+    margin-bottom: opx;
+}
+ /* ------Ending of banner part------- */
