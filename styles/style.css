@@ -1,36 +1,32 @@
 *{
-     font-family: 'Open Sans', sans-serif; 
+     font-family: 'Open Sans'; 
 }
 /* -------banner part start--------- */
-#black-rose{
-    background-image: url(../images/banner/banner3.png);
-    width: 1332px;
-    height: 808px;
-}
-.rose{
-    font-size: 40px;
-    text-align: right;
-    color: white;
-    margin-right: 120px;
-} 
-.meri-gold {
-    text-align: right;
-    color: white;
-    font-size: 15px;
-    margin-right: 120px;
-}
-.chaina-rose{
-    color:#005FAC;
-    background-color: white;
-    height: 64px;
-    width: 130px;
-    font-size: 20px;
-    float: right;
-    border: 1px solid white;
-    border-radius: 4px;
-    margin-right: 120px;
-    margin-bottom: opx;
-}
+ .american-rose{
+    background-image: url(../images/banner/banner1.png); 
+   height: 810px; 
+   display: flex;
+   position: relative;
+ }
+ .chaina-rose{
+   text-align: right;
+   margin-left: 750px;
+   margin-top: 200px;
+   
+ }
+ #first-para{
+   font-size: 70px;
+ }
+ #contract{
+   width: 160px;
+height: 64px;
+ background-color: coral;
+color: aliceblue;
+font-size: 20px;
+border-radius: 5px;
+ }
+
+
  /* ------Ending of banner part------- */
 
  /*------- starting of main part-------- */
@@ -53,7 +49,7 @@
  #Lorem{
     width: 400px;
  }
- /* -----ending of mains first part------- */
+ /* -------------------------------------------------- */
  #plan{
     font-size: 40px;
     text-align: center;
@@ -79,4 +75,55 @@
  #eco{
     margin-left: 20px;
  } 
+ /*------------------------------------------------------- */
  
+ /* ---------main part finished-------- */
+
+
+
+ /* ----footer part start------- */
+ #boat{
+   width: 1600px;
+height: 377px;
+background: #151414;
+display: flex;
+gap: 50px; 
+max-width: 1325px;
+margin-top: 0px;
+
+ }
+ .sink{
+   color: white;
+   margin-top: 90px;
+   margin-left: 270px;
+ }
+ .sink p{
+   font-size: 10px;
+ }
+ #img{
+   gap: 15px;
+   size: 300px;
+ }
+ .sink #mail{
+   width: 250px;
+height: 34px;
+border-radius: 7px;
+padding-left: 40px;
+background-color: #151414;
+color: aliceblue;
+border: 1px solid gray;
+ }
+ .sink #tube{
+   width: 140.11px;
+height: 44px;
+border-radius: 7px ;
+color: chocolate;
+font-size: 15px;
+ }
+ .sink #ink{
+   margin: bottom 5px; 
+ }
+ 
+ 
+ 
+  
