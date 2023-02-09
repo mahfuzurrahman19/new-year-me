@@ -11,8 +11,7 @@
  .chaina-rose{
    text-align: right;
    margin-left: 750px;
-   margin-top: 200px;
-   
+   margin-top: 200px; 
  }
  #first-para{
    font-size: 70px;
@@ -25,9 +24,9 @@ color: aliceblue;
 font-size: 20px;
 border-radius: 5px;
  }
-
-
  /* ------Ending of banner part------- */
+
+
 
  /*------- starting of main part-------- */
  .shark{
@@ -76,7 +75,29 @@ border-radius: 5px;
     margin-left: 20px;
  } 
  /*------------------------------------------------------- */
- 
+.name p{
+font-size: 40px;
+margin-left: 90px;
+color: aliceblue;
+}
+.name button{
+   width: 130px;
+height: 64px;
+border-radius: 7px;
+margin-left: 90px;
+color: coral;
+font-size: 19px;
+}
+#liniar{
+   background-image: linear-gradient(to right, red , blue), url(../images/watch.png) ;
+    background-blend-mode: overlay; 
+   background-repeat: no-repeat;
+   margin-left: 180px;
+   margin-right: 180px;
+   height: 250px;
+   margin-bottom: 90px ;
+   margin-top: 90px;
+}
  /* ---------main part finished-------- */
 
 
@@ -123,6 +144,7 @@ font-size: 15px;
  .sink #ink{
    margin: bottom 5px; 
  }
+ /* -------footer end--------- */
  
  
  
